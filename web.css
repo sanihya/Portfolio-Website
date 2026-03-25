@@ -32,7 +32,7 @@ body {
   text-align: center;
 }
 
-/* Skills Bars */
+
 .skill {
   margin: 15px 0;
   text-align: left;
@@ -69,7 +69,7 @@ footer {
   padding: 10px;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
